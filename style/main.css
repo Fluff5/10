@@ -616,10 +616,10 @@ hr {
   .tile.tile-33 .tile-inner {
     color: #e74b25;
     background: #6df80a; }
-  .tile.tile-34 .tile-inner {
+  .tile.tile--34 .tile-inner {
     color: #e75a25;
     background: #a5f80a; }
-  .tile.tile--34 .tile-inner {
+  .tile.tile-34 .tile-inner {
     color: #bab8b8;
     background: #807b6a; }
   .tile.tile-35 .tile-inner {
