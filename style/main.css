@@ -709,10 +709,10 @@ hr {
   .tile.tile-54 .tile-inner {
     color: #ffc7a2;
     background: #719eab; }
-  .tile.tile-55 .tile-inner {
+  .tile.tile--55 .tile-inner {
     color: #c8fff7;
     background: #d7c7d7; }
-  .tile.tile--55 .tile-inner {
+  .tile.tile-55 .tile-inner {
     color: #24831a;
     background: #eea809; }
   .tile.tile-56 .tile-inner {
@@ -825,7 +825,7 @@ hr {
     background: #8faf00; }
   .tile.tile-87 .tile-inner {
     color: #ff9b9b;
-    background: #5f6fdf; }
+    background: #5171a1; }
   .tile.tile-88 .tile-inner {
     color: #4e0c9a;
     background: #90ffa3; }
