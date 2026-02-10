@@ -130,7 +130,7 @@ GameManager.prototype.move = function (direction) {
         if (next && next.value === tile.value && !next.mergedFrom) { 
           var merged = new Tile(positions.next, tile.value * 1);
            if (tile.value === -4)
-            var merged = new Tile(positions.next, tile.value = 1);
+            var merged = new Tile(positions.next, Math.random() < 0.99 ? tile.value = 1 : tile.value = -4);
           merged.mergedFrom = [tile, next];
 
           self.grid.insertTile(merged);
@@ -141,7 +141,7 @@ GameManager.prototype.move = function (direction) {
 
           // The mighty 10 tile
           if (merged.value === 10) self.won = true;
-          if (merged.value === -4) Math.random() < 0.995 ? self.over = false : self.over = true;
+          if (merged.value === -4) self.over = true;
         } else {
           self.moveTile(tile, positions.farthest);
         }
