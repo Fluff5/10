@@ -860,6 +860,10 @@ hr {
     color: #11827f;
     background: #87b49f;
     font-size: 26px; }
+  .tile.tile-140 .tile-inner {
+    color: #d36e34;
+    background: #713b1c;
+    font-size: 26px; }
   .tile.tile-161 .tile-inner {
      color: #5dff00;
      background: #61222a;
@@ -920,6 +924,10 @@ hr {
     color: #d1ab03;
     background: #0309d1;
     font-size: 16px; }
+  .tile.tile-7714 .tile-inner {
+     color: #a15818;
+     background: #c9f3f0;
+     font-size: 20px; }
   .tile.tile-10000 .tile-inner {
     color: #0309d1;
     background: #d1ab03;
