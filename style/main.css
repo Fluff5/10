@@ -565,10 +565,10 @@ hr {
   .tile.tile-16 .tile-inner {
     color: #f9f6f2;
     background: #f387d9; }
-  .tile.tile-17 .tile-inner {
+  .tile.tile--17 .tile-inner {
     color: #1c1c05;
     background: #a6f315; }
-  .tile.tile--17 .tile-inner {
+  .tile.tile-17 .tile-inner {
     color: #f9f6f2;
     background: #a47615; }
   .tile.tile-18 .tile-inner {
