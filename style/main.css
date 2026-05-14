@@ -508,6 +508,9 @@ hr {
     font-weight: bold;
     z-index: 10;
     font-size: 30px; }
+  .tile.tile--5 .tile-inner {
+    color: #25ff00;
+    background: #924bff; }
   .tile.tile--2 .tile-inner {
     color: #f9f6f2;
     background: #9b4800; }
@@ -578,8 +581,8 @@ hr {
     color: #f9f6f2;
     background: #a9bedf; }
   .tile.tile-19 .tile-inner {
-    color: #3acb9e;
-    background: #bdcbff; }
+    color: #6d2259;
+    background: #08ffa6; }
   .tile.tile-20 .tile-inner {
     color: #ff5281;
     background: #3c4164; }
