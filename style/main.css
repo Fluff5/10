@@ -508,6 +508,9 @@ hr {
     font-weight: bold;
     z-index: 10;
     font-size: 30px; }
+  .tile.tile--6 .tile-inner {
+    color: #f9f6f2;
+    background: #ebebec; }
   .tile.tile--5 .tile-inner {
     color: #25ff00;
     background: #924bff; }
